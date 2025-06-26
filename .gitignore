@@ -1,0 +1,5 @@
+# KiCad
+backups
+*.bak
+*.zip
+fp-info-cache
