@@ -3,3 +3,4 @@ backups
 *.bak
 *.zip
 fp-info-cache
+*.lck
